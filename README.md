@@ -14,21 +14,6 @@ This project analyzes job posting data using SQL to extract insights about compa
 - `skills_job_dim.csv` – skill-job relations
 
 ## 🔍 Key Analysis
-- Top 10 most common job titles
-- Most demanded skills
-- Jobs posted per company
-- "skill_id","demand"
-0,"385750"
-1,"381863"
-76,"145718"
-74,"132851"
-5,"131285"
-182,"127500"
-181,"127341"
-92,"114928"
-183,"98363"
-4,"85854"
-
 
 ## 📊 Sample Queries
 
