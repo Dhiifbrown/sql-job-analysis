@@ -30,3 +30,8 @@ SELECT job_title, COUNT(*)
 FROM job_postings_fact
 GROUP BY job_title
 ORDER BY COUNT(*) DESC;
+## 📊 Key Insights
+
+- Data-related roles appear frequently in job postings
+- Certain skills are consistently in high demand
+- Some companies post significantly more jobs than others
