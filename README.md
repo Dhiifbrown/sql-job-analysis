@@ -37,3 +37,4 @@ ORDER BY COUNT(*) DESC;
 - Data-related roles appear frequently in job postings
 - Certain skills are consistently in high demand
 - Some companies post significantly more jobs than others
+![Query Results](job_results.png)
