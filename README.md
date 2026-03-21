@@ -19,7 +19,7 @@ While Python and SQL are the most frequent, specialized skills like R, Kubernete
    **The "Gold Standard" Stack**: Python and SQL remain the most critical skills for entering the high-salary bracket.
    **Specialization Pays**: The highest individual salary ($\$960,000$) is associated with a role requiring a mix of Python, Java, R, and C++, suggesting that "polyglot" programming abilities are highly valued.
    **Infrastructure Skills**: The presence of Kubernetes, Docker, and Cloud (Azure) in roles paying $\$890,000$ indicates that the intersection of Data Science and DevOps (MLOps) is a high-value niche.
-![top_highest_paying_data_jobs](assets\k.png) 
+![top_highest_paying_data_jobs](k.png) 
 ## 📊 5. Actionable Recommendations
 For professionals aiming for high-paying data roles, the following steps are recommended:
 1. **Master the Fundamentals**: Ensure expert-level proficiency in Python and SQL, as these are required by over half of the top-paying jobs.
