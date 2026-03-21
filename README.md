@@ -12,7 +12,7 @@ Among these high-paying roles, certain technical skills appear more frequently, 
        **Python**: Found in $5$ out of $8$ top jobs ($62.5\%$).
        **SQL**: Found in $4$ out of $8$ top jobs ($50\%$).
        **Java**: Found in $3$ out of $8$ top jobs ($37.5\%$).
-![top10_most_demand_skilla_for_high_paying_jobs](assets\hf.png)  
+![top10_most_demand_skilla_for_high_paying_jobs](hf.png)  
 #  C. Salary vs. Skills Relationship
 While Python and SQL are the most frequent, specialized skills like R, Kubernetes, and Spark are associated with the absolute highest salary brackets in this specific dataset. This suggests that while Python gets you in the door, niche technical expertise can drive salary even higher.
 ## 🛠️ 4. Key Findings & Insights
