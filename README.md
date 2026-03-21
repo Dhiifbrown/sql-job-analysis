@@ -25,17 +25,7 @@ The analysis was broken down into four critical phases:
 
 ### 💾 Sample SQL Query
 Below is the SQL logic used to pull the top-tier salary data from the database:
-### 💡 What I Learned
-This project provided several key takeaways, both technical and strategic:
 
-The Power of Specialization: While Python is the most common skill, the highest-paying roles often require specialized infrastructure knowledge (Docker, Kubernetes) or high-performance languages (C++).
-
-Data Storytelling: I refined my ability to transform raw CSV data into a narrative that explains why certain patterns exist, rather than just what the numbers are.
-
-Automation is Key: By using Python to generate the final PDF report, I learned how to create a reproducible workflow that can be applied to any new dataset with minimal manual effort.
-
-### 🏁 Conclusion
-The path to a high-paying career in data is not just about years of experience, but about strategic skill acquisition. To command a salary in the top 1%, a professional must master the "Gold Standard" (Python/SQL) while building expertise in deployment and scalable architecture (MLOps). This project concludes that as the industry matures, the highest rewards will continue to go to those who can bridge the gap between building a model and running it in a high-stakes production environment.
 ```sql
 SELECT 
     job_id,
@@ -51,3 +41,14 @@ WHERE
 ORDER BY 
     salary_year_avg DESC
 LIMIT 10;
+### 💡 What I Learned
+This project provided several key takeaways, both technical and strategic:
+
+The Power of Specialization: While Python is the most common skill, the highest-paying roles often require specialized infrastructure knowledge (Docker, Kubernetes) or high-performance languages (C++).
+
+Data Storytelling: I refined my ability to transform raw CSV data into a narrative that explains why certain patterns exist, rather than just what the numbers are.
+
+Automation is Key: By using Python to generate the final PDF report, I learned how to create a reproducible workflow that can be applied to any new dataset with minimal manual effort.
+
+### 🏁 Conclusion
+The path to a high-paying career in data is not just about years of experience, but about strategic skill acquisition. To command a salary in the top 1%, a professional must master the "Gold Standard" (Python/SQL) while building expertise in deployment and scalable architecture (MLOps). This project concludes that as the industry matures, the highest rewards will continue to go to those who can bridge the gap between building a model and running it in a high-stakes production environment.
