@@ -41,6 +41,7 @@ WHERE
 ORDER BY 
     salary_year_avg DESC
 LIMIT 10;
+```
 ### 💡 What I Learned
 This project provided several key takeaways, both technical and strategic:
 
