@@ -6,7 +6,7 @@ In the rapidly evolving data landscape, the gap between a standard salary and a 
 ## 🔍Data Analysis & Visualizations
 # A. Highest-Paying Job Roles
 The dataset highlights a significant range in top-tier compensation, with the highest salary reaching $\$960,000$. The average salary across these elite roles is approximately $\$618,562.50$.Top Job: Data Scientist at East River Electric Power Cooperative, Inc. ($\$960,000$).Runner Up: Senior Data Scientist at MSP Staffing LTD ($\$890,000$).Commonality: Most high-paying roles are senior-level or specialized analyst positions.
-![top_paying_rules](assets\Code_Generated_Image.png)
+![top_paying_rules](Code_Generated_Image.png)
 # B. Most In-Demand Skills
 Among these high-paying roles, certain technical skills appear more frequently, indicating they are foundational for top-tier employment.
        **Python**: Found in $5$ out of $8$ top jobs ($62.5\%$).
